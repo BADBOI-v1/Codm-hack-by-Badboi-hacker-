@@ -1,4 +1,4 @@
-# CoDM ESP & Aimbot Mod Menu
+# CoDM ESP & Aimbot Mod Menu by Badboi 👿 dev
 This project was been shared on a telegram group, I will reshare here publicly so it is more known
 
 ![](https://i.imgur.com/EpttQ8B.png)
@@ -14,7 +14,7 @@ This project was been shared on a telegram group, I will reshare here publicly s
 - AS and AIDE supported
 
 # Credits
-Pmods Sausage
+BADBOI DEV
 
 # DISCLAIMER
 **THE SOURCE IS OLD AND MAY NOT WORK ON LATEST VERSION DUE TO CHANGES. YOU MUST UPDATE AND FIX CODES BY YOURSELF! NO QUESTION ASKED!**
